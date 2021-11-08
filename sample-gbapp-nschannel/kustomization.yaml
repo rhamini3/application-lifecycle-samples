@@ -1,0 +1,13 @@
+resources:
+- namespace.yaml
+- namespace-ch.yaml
+- channel.yaml
+- placementrule.yaml
+- subscription.yaml
+- gbchn-frontend.yaml
+- gbchn-redismaster.yaml
+- gbchn-redismasterservice.yaml
+- gbchn-redisslave.yaml
+- gbchn-redisslaveservice.yaml
+- gbchn-service.yaml
+- application.yaml
